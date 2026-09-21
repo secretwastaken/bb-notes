@@ -18,10 +18,12 @@
 </p>
 
 <p align="center">
-  <sub><b>BB</b> is for <b>Beck &amp; Baddie</b> — two VRChat avatars made by my friend <b>Dyzzy</b>, whose showcase this whole look is based on.<br/>
+  <sub>BB is for <a href="https://khihani.com/b/beck-and-baddie">Beck &amp; Baddie</a> — two VRChat avatars made by my friend <a href="https://dyzzy.store/b/beck-by-dyzzy">Dyzzy</a> and <a href="https://khihani.com/b/baddie-by-khihani">Khihani</a>, whose showcase this whole look is based on.<br/>
   Beck was modelled after his childhood with his Mom: the music she introduced him to, the cartoons they watched,<br/>
   the colours of his childhood bedroom walls, and — most importantly — her favourite thing: flowers.<br/>
-  That's why there's a daisy on every check. Much of the proceeds from Beck go to her care. ♡</sub>
+  That's why there's a daisy on every check. Much of the proceeds from Beck go to her care. ♡ <br/>
+    <a href="https://www.youtube.com/watch?v=mwiBkRRgyfs"> You can check the showcase here.</a>
+  </sub>
 </p>
 
 <p align="center"><img src="assets/divider.png" alt="" width="100%" /></p>
